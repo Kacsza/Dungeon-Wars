@@ -21,7 +21,6 @@
     </div>
     <footer>
         <p>To je stopka</p>
-        test
     </footer>
 </body>
 </html>
